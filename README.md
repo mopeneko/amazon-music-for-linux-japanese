@@ -10,10 +10,10 @@ Completely displays Japanese fonts.
 2. Amazon Music works on Wine. \([App DB](https://appdb.winehq.org/objectManager.php?sClass=application&iId=16528)\)
 3. Amazon Music download website fetches download URL.
 4. Then...
-  1. Create Japanese Wine environment
-  2. Fetch and parse download URL
-  3. Download and install it
-  4. Enjoy!
+    1. Create Japanese Wine environment
+    2. Fetch and parse download URL
+    3. Download and install it
+    4. Enjoy!
 
 ## Requirements
 
