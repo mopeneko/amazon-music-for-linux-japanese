@@ -5,4 +5,4 @@ cd "$(dirname $0)"
 export WINEPREFIX=$(pwd)/.wine
 export LANG=ja_JP.UTF-8
 
-wine "$WINEPREFIX/drive_c/users/user/AppData/Local/Amazon Music/Amazon Music.exe"
+wine "$WINEPREFIX/drive_c/users/$USER/AppData/Local/Amazon Music/Amazon Music.exe"
