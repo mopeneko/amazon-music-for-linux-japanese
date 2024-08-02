@@ -7,7 +7,7 @@ Completely displays Japanese fonts.
 ## How it works?
 
 1. Amazon Music for Linux is not released at now.
-2. Amazon Music works on Wine. \([App DB](https://appdb.winehq.org/objectManager.php?sClass=application&iId=16528)\)
+2. Amazon Music works on Wine. \([AppDB](https://appdb.winehq.org/objectManager.php?sClass=application&iId=16528)\)
 3. Amazon Music download website fetches download URL.
 4. Then...
     1. Create Japanese Wine environment
